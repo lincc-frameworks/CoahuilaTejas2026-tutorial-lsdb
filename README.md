@@ -30,7 +30,8 @@ The LSDB tutorial is on **Tuesday, November 10, 09:45–11:00** local time.
 
 ### Main references
 
-* **TODO**: [Slide deck]()
+* [Slide deck](https://docs.google.com/presentation/d/1X06ItRqvnbgKG9HdsHJ4R7aioP4B0mjZ8neohh1piRw/)
+  * Includes a cheat sheet with DP2 catalog names, columns, and useful flags for time-domain analysis.
 * Rubin data rights
   * [Rubin Observatory Data Policy (RDO-013)](https://ls.st/rdo-013)
   * [Slides on Rubin data rights and working with non-DRHs](https://docs.google.com/presentation/d/1ZF2JsncJvEmcDK9V7Mg5dsFag-08MZQP_2H3ncPi29c/edit?usp=sharing)
