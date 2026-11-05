@@ -1,8 +1,8 @@
-tutorials/hats/
-tutorials/images/
-tutorials/lance/
-tutorials/torch/
-tutorials/.ipynb_checkpoints/
+# Notebook outputs
+tutorials/lsdr11_rubindp2_photoz_match/
+tutorials/dp2_vsx_features/
+tutorials/similar_to_*.parquet
+
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
